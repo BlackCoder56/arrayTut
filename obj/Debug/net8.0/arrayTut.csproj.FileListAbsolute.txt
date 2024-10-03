@@ -1,0 +1,14 @@
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/bin/Debug/net8.0/arrayTut
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/bin/Debug/net8.0/arrayTut.deps.json
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/bin/Debug/net8.0/arrayTut.runtimeconfig.json
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/bin/Debug/net8.0/arrayTut.dll
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/bin/Debug/net8.0/arrayTut.pdb
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/obj/Debug/net8.0/arrayTut.GeneratedMSBuildEditorConfig.editorconfig
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/obj/Debug/net8.0/arrayTut.AssemblyInfoInputs.cache
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/obj/Debug/net8.0/arrayTut.AssemblyInfo.cs
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/obj/Debug/net8.0/arrayTut.csproj.CoreCompileInputs.cache
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/obj/Debug/net8.0/arrayTut.dll
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/obj/Debug/net8.0/refint/arrayTut.dll
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/obj/Debug/net8.0/arrayTut.pdb
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/obj/Debug/net8.0/arrayTut.genruntimeconfig.cache
+/home/elly/Desktop/CsharpProjects/Projects/arrayTut/obj/Debug/net8.0/ref/arrayTut.dll
